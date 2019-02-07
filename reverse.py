@@ -1,4 +1,4 @@
-i=567
+i=int(input("enter a number"))
 rev=0
 while(i>0):
     rem=int(i%10)
